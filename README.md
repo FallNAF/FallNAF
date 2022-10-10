@@ -17,7 +17,7 @@
 
 [![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username={FallNAF}&theme=blue-green)]()
 
-Copyright:
+
 ### ▌│█║▌│ █║▌│█│║▌║
 #### ¹³ ⁴ ⁵ ⁶ ⁷ ⁸   ³⁵ ⁶² ⁷   ² ¹³ ⁴ ⁵ ⁶ ⁷
 
