@@ -15,7 +15,7 @@
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallNAF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallNAF)]()
 
 ### ▌│█║▌│ █║▌│█│║▌║
 #### ¹³ ⁴ ⁵ ⁶ ⁷ ⁸   ³⁵ ⁶² ⁷   ² ¹³ ⁴ ⁵ ⁶ ⁷
