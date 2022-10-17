@@ -1,6 +1,6 @@
 ###### Raposo beta testes v0.00000000001
 
-![Atividades](https://github-readme-stats.vercel.app/api?username=FallNAF&show_icons=true&&locale=pt-br&theme=swift&)
+
 
 <!-- Padrão para inserção badges:
 [![NomedoBadge](link do badge, layout, icone)](link para onde o badge irá direcionar)
@@ -15,7 +15,10 @@
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallNAF)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FallNAF&theme=midnight-purple&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallNAF&theme=midnight-purple)]()
 
 ### ▌│█║▌│ █║▌│█│║▌║
 #### ¹³ ⁴ ⁵ ⁶ ⁷ ⁸   ³⁵ ⁶² ⁷   ² ¹³ ⁴ ⁵ ⁶ ⁷
