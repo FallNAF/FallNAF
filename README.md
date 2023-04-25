@@ -20,8 +20,6 @@
 ## Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FallNAF&theme=midnight-purple&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallNAF&theme=midnight-purple)]()
-
 
  ▌│█║▌│ █║▌│█│║▌║
 
