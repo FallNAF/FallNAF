@@ -1,6 +1,3 @@
-###### Raposo beta testes v0.00000000001
-
-
 
 <!-- Padrão para inserção badges:
 [![NomedoBadge](link do badge, layout, icone)](link para onde o badge irá direcionar)
@@ -16,15 +13,5 @@
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 <br>
-
-## Status
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FallNAF&theme=midnight-purple&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
-
- ▌│█║▌│ █║▌│█│║▌║
-
-¹³ ⁴ ⁵ ⁶ ⁷ ⁸   ³⁵ ⁶² ⁷   ² ¹³ ⁴ ⁵ ⁶ ⁷
-
-###### *Copyright: 2022 Raposo Productions, All Rights Reserved.*
   
   </span>
