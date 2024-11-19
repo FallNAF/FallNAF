@@ -15,8 +15,4 @@ Cometendo crimes na programação em mais de uma linguagem.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvsdamasceno@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bvsdamasceno/)
 
-### Estatísticas
 
-<a href="http://www.github.com/fallnaf"><img src="https://github-readme-stats.vercel.app/api?username=fallnaf&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="fallnaf's GitHub stats" /></a>
-
-<a href="https://github.com/fallnaf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallnaf&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
